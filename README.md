@@ -2,4 +2,4 @@
 
 This is the code used for the manuscript "The interplay between focus of attention, respiratory phases, and the heartbeat evoked potential"
 
-The files are containing the code used for generating the results reported in the manuscript and source data used to produce statistics and Figures
+The files are containing the code used for generating the results, statistics, and figures reported in the manuscript
